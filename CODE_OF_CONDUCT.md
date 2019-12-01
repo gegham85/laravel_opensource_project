@@ -1,3 +1,3 @@
 # Contributor Code of Conduct
 
-{placeholder}
+{placeholder for code of conduct}
