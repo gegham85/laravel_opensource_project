@@ -5,6 +5,9 @@
  *
  * @author   Taylor Otwell <taylor@laravel.com>
  */
+
+// unnecessary comment added here!
+
 define('LARAVEL_START', microtime(true));
 
 /*
